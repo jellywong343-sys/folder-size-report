@@ -1,0 +1,11 @@
+{
+  "name": "folder-size-report",
+  "description": "Scan a folder and generate readable size summaries, top-file lists, JSON, and CSV reports.",
+  "topics": [
+    "python",
+    "cli",
+    "disk-usage",
+    "file-management",
+    "reporting"
+  ]
+}
